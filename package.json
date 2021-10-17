@@ -1,0 +1,17 @@
+{
+  "name": "repo-file-structure-ex",
+  "version": "1.0.0",
+  "description": "repo-file-structure-ex",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/ts-node/dist/bin.js index.ts"
+  },
+  "dependencies": {
+    "axios": "^0.23.0",
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.4"
+  }
+}
